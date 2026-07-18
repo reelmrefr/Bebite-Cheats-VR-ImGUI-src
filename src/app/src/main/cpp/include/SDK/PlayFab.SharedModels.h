@@ -1,0 +1,7 @@
+#include "Includes/PlayFab.SharedModels/HttpResponseObject.h"
+#include "Includes/PlayFab.SharedModels/PlayFabBaseModel.h"
+#include "Includes/PlayFab.SharedModels/IPlayFabInstanceApi.h"
+#include "Includes/PlayFab.SharedModels/PlayFabRequestCommon.h"
+#include "Includes/PlayFab.SharedModels/PlayFabResultCommon.h"
+#include "Includes/PlayFab.SharedModels/PlayFabLoginResultCommon.h"
+#include "Includes/PlayFab.SharedModels/PlayFabResult`1.h"

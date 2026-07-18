@@ -1,0 +1,5 @@
+#include "Includes/Photon.Voice.IOS/AudioSessionCategory.h"
+#include "Includes/Photon.Voice.IOS/AudioSessionMode.h"
+#include "Includes/Photon.Voice.IOS/AudioSessionCategoryOption.h"
+#include "Includes/Photon.Voice.IOS/AudioSessionParameters.h"
+#include "Includes/Photon.Voice.IOS/AudioSessionParametersPresets.h"

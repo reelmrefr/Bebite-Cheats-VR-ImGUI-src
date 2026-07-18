@@ -1,0 +1,5 @@
+#include "Includes/POpusCodec/OpusDecoder`1.h"
+#include "Includes/POpusCodec/OpusLib.h"
+#include "Includes/POpusCodec/OpusEncoder.h"
+#include "Includes/POpusCodec/OpusException.h"
+#include "Includes/POpusCodec/Wrapper.h"
