@@ -1,0 +1,6 @@
+#include "Includes/UnityEngine.Audio/AudioPlayableOutput.h"
+#include "Includes/UnityEngine.Audio/AudioMixerGroup.h"
+#include "Includes/UnityEngine.Audio/AudioMixer.h"
+#include "Includes/UnityEngine.Audio/AudioMixerSnapshot.h"
+#include "Includes/UnityEngine.Audio/AudioClipPlayable.h"
+#include "Includes/UnityEngine.Audio/AudioMixerPlayable.h"

@@ -1,0 +1,5 @@
+#include "Includes/UnityEngine.AI/NavMeshPathStatus.h"
+#include "Includes/UnityEngine.AI/NavMeshPath.h"
+#include "Includes/UnityEngine.AI/NavMeshAgent.h"
+#include "Includes/UnityEngine.AI/NavMeshHit.h"
+#include "Includes/UnityEngine.AI/NavMesh.h"
