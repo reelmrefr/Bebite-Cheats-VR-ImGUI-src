@@ -1,0 +1,8 @@
+#include "Includes/System.Buffers/SpanAction`2.h"
+#include "Includes/System.Buffers/ArrayPool`1.h"
+#include "Includes/System.Buffers/ArrayPoolEventSource.h"
+#include "Includes/System.Buffers/IPinnable.h"
+#include "Includes/System.Buffers/MemoryHandle.h"
+#include "Includes/System.Buffers/MemoryManager`1.h"
+#include "Includes/System.Buffers/TlsOverPerCoreLockedStacksArrayPool`1.h"
+#include "Includes/System.Buffers/Utilities.h"

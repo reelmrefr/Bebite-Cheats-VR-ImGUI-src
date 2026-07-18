@@ -1,0 +1,7 @@
+#include "Includes/System.Xml/XmlReader.h"
+#include "Includes/System.Xml/XmlTextReader.h"
+#include "Includes/System.Xml/XmlWriter.h"
+#include "Includes/System.Xml/XmlDocument.h"
+#include "Includes/System.Xml/XmlNode.h"
+#include "Includes/System.Xml/EmptyEnumerator.h"
+#include "Includes/System.Xml/Res.h"

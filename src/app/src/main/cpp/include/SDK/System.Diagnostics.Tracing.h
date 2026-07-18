@@ -1,0 +1,6 @@
+#include "Includes/System.Diagnostics.Tracing/EventLevel.h"
+#include "Includes/System.Diagnostics.Tracing/EventKeywords.h"
+#include "Includes/System.Diagnostics.Tracing/EventAttribute.h"
+#include "Includes/System.Diagnostics.Tracing/EventSource.h"
+#include "Includes/System.Diagnostics.Tracing/EventSourceAttribute.h"
+#include "Includes/System.Diagnostics.Tracing/NonEventAttribute.h"

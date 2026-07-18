@@ -1,0 +1,7 @@
+#include "Includes/System.Security.Authentication.ExtendedProtection/ServiceNameCollection.h"
+#include "Includes/System.Security.Authentication.ExtendedProtection/TokenBinding.h"
+#include "Includes/System.Security.Authentication.ExtendedProtection/ChannelBinding.h"
+#include "Includes/System.Security.Authentication.ExtendedProtection/ChannelBindingKind.h"
+#include "Includes/System.Security.Authentication.ExtendedProtection/ExtendedProtectionPolicy.h"
+#include "Includes/System.Security.Authentication.ExtendedProtection/ExtendedProtectionPolicyTypeConverter.h"
+#include "Includes/System.Security.Authentication.ExtendedProtection/PolicyEnforcement.h"
