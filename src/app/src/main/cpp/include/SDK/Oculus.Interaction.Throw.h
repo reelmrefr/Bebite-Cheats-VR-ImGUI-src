@@ -1,0 +1,8 @@
+#include "Includes/Oculus.Interaction.Throw/ControllerPoseInputDevice.h"
+#include "Includes/Oculus.Interaction.Throw/HandPoseInputDevice.h"
+#include "Includes/Oculus.Interaction.Throw/IPoseInputDevice.h"
+#include "Includes/Oculus.Interaction.Throw/TransformSample.h"
+#include "Includes/Oculus.Interaction.Throw/ReleaseVelocityInformation.h"
+#include "Includes/Oculus.Interaction.Throw/IVelocityCalculator.h"
+#include "Includes/Oculus.Interaction.Throw/StandardVelocityCalculator.h"
+#include "Includes/Oculus.Interaction.Throw/VelocityCalculatorUtilMethods.h"

@@ -1,0 +1,6 @@
+#include "Includes/Oculus.Voice.Bindings.Android/IVCBindingEvents.h"
+#include "Includes/Oculus.Voice.Bindings.Android/VoiceSDKBinding.h"
+#include "Includes/Oculus.Voice.Bindings.Android/VoiceSDKConfigBinding.h"
+#include "Includes/Oculus.Voice.Bindings.Android/VoiceSDKImpl.h"
+#include "Includes/Oculus.Voice.Bindings.Android/VoiceSDKImplRequest.h"
+#include "Includes/Oculus.Voice.Bindings.Android/VoiceSDKListenerBinding.h"
