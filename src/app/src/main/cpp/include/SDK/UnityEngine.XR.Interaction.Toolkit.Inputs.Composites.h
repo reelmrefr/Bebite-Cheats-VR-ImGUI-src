@@ -1,0 +1,5 @@
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Inputs.Composites/Vector3FallbackComposite.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Inputs.Composites/QuaternionFallbackComposite.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Inputs.Composites/IntegerFallbackComposite.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Inputs.Composites/ButtonFallbackComposite.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Inputs.Composites/FallbackComposite`1.h"

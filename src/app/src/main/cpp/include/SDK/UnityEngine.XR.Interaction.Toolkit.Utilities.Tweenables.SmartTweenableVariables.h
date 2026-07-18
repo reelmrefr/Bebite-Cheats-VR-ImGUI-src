@@ -1,0 +1,8 @@
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.SmartTweenableVariables/SmartFollowQuaternionTweenableVariable.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.SmartTweenableVariables/ComputeNewTweenTarget_000009C4$PostfixBurstDelegate.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.SmartTweenableVariables/ComputeNewTweenTarget_000009C4$BurstDirectCall.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.SmartTweenableVariables/SmartFollowVector3TweenableVariable.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.SmartTweenableVariables/ComputeNewTweenTarget_000009D0$PostfixBurstDelegate.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.SmartTweenableVariables/ComputeNewTweenTarget_000009D0$BurstDirectCall.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.SmartTweenableVariables/IsNewTargetWithinThreshold_000009D1$PostfixBurstDelegate.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.SmartTweenableVariables/IsNewTargetWithinThreshold_000009D1$BurstDirectCall.h"

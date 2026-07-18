@@ -1,0 +1,6 @@
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.Primitives/ColorTweenableVariable.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.Primitives/FloatTweenableVariable.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.Primitives/QuaternionTweenableVariable.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.Primitives/Vector2TweenableVariable.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.Primitives/Vector3TweenableVariable.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.Utilities.Tweenables.Primitives/Vector4TweenableVariable.h"

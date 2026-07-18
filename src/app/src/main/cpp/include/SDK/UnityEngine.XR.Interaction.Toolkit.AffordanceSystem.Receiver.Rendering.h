@@ -1,0 +1,7 @@
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Rendering/BlendShapeAffordanceReceiver.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Rendering/ColorGradientLineRendererAffordanceReceiver.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Rendering/ColorMaterialPropertyAffordanceReceiver.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Rendering/FloatMaterialPropertyAffordanceReceiver.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Rendering/Vector2MaterialPropertyAffordanceReceiver.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Rendering/Vector3MaterialPropertyAffordanceReceiver.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Rendering/Vector4MaterialPropertyAffordanceReceiver.h"

@@ -1,0 +1,7 @@
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Jobs/ColorTweenJob.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Jobs/FloatTweenJob.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Jobs/Float2TweenJob.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Jobs/Float3TweenJob.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Jobs/Float4TweenJob.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Jobs/ITweenJob`1.h"
+#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Jobs/TweenJobData`1.h"
