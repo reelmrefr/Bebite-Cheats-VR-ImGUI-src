@@ -1,0 +1,7 @@
+#include "Includes/UnityEngine.InputSystem.Layouts/InputControlAttribute.h"
+#include "Includes/UnityEngine.InputSystem.Layouts/InputDeviceFindControlLayoutDelegate.h"
+#include "Includes/UnityEngine.InputSystem.Layouts/InputControlLayout.h"
+#include "Includes/UnityEngine.InputSystem.Layouts/InputControlLayoutAttribute.h"
+#include "Includes/UnityEngine.InputSystem.Layouts/InputDeviceBuilder.h"
+#include "Includes/UnityEngine.InputSystem.Layouts/InputDeviceDescription.h"
+#include "Includes/UnityEngine.InputSystem.Layouts/InputDeviceMatcher.h"

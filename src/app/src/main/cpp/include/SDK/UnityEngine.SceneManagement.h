@@ -1,0 +1,8 @@
+#include "Includes/UnityEngine.SceneManagement/LoadSceneMode.h"
+#include "Includes/UnityEngine.SceneManagement/LocalPhysicsMode.h"
+#include "Includes/UnityEngine.SceneManagement/LoadSceneParameters.h"
+#include "Includes/UnityEngine.SceneManagement/UnloadSceneOptions.h"
+#include "Includes/UnityEngine.SceneManagement/SceneManager.h"
+#include "Includes/UnityEngine.SceneManagement/Scene.h"
+#include "Includes/UnityEngine.SceneManagement/SceneManagerAPIInternal.h"
+#include "Includes/UnityEngine.SceneManagement/SceneManagerAPI.h"

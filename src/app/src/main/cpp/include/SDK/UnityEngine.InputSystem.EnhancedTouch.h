@@ -1,0 +1,5 @@
+#include "Includes/UnityEngine.InputSystem.EnhancedTouch/EnhancedTouchSupport.h"
+#include "Includes/UnityEngine.InputSystem.EnhancedTouch/Finger.h"
+#include "Includes/UnityEngine.InputSystem.EnhancedTouch/Touch.h"
+#include "Includes/UnityEngine.InputSystem.EnhancedTouch/TouchHistory.h"
+#include "Includes/UnityEngine.InputSystem.EnhancedTouch/TouchSimulation.h"

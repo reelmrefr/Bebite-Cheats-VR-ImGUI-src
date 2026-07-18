@@ -1,0 +1,5 @@
+#include "Includes/UnityEngine.InputSystem.Users/InputUser.h"
+#include "Includes/UnityEngine.InputSystem.Users/InputUserAccountHandle.h"
+#include "Includes/UnityEngine.InputSystem.Users/InputUserChange.h"
+#include "Includes/UnityEngine.InputSystem.Users/InputUserPairingOptions.h"
+#include "Includes/UnityEngine.InputSystem.Users/InputUserSettings.h"

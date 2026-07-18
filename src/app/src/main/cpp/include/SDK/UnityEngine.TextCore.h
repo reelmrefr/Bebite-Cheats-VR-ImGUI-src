@@ -1,0 +1,5 @@
+#include "Includes/UnityEngine.TextCore/FaceInfo.h"
+#include "Includes/UnityEngine.TextCore/GlyphClassDefinitionType.h"
+#include "Includes/UnityEngine.TextCore/GlyphRect.h"
+#include "Includes/UnityEngine.TextCore/GlyphMetrics.h"
+#include "Includes/UnityEngine.TextCore/Glyph.h"

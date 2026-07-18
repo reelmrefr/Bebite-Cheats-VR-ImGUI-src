@@ -1,0 +1,7 @@
+#include "Includes/UnityEngine.InputSystem.XR.Haptics/BufferedRumble.h"
+#include "Includes/UnityEngine.InputSystem.XR.Haptics/HapticState.h"
+#include "Includes/UnityEngine.InputSystem.XR.Haptics/GetCurrentHapticStateCommand.h"
+#include "Includes/UnityEngine.InputSystem.XR.Haptics/HapticCapabilities.h"
+#include "Includes/UnityEngine.InputSystem.XR.Haptics/GetHapticCapabilitiesCommand.h"
+#include "Includes/UnityEngine.InputSystem.XR.Haptics/SendBufferedHapticCommand.h"
+#include "Includes/UnityEngine.InputSystem.XR.Haptics/SendHapticImpulseCommand.h"
