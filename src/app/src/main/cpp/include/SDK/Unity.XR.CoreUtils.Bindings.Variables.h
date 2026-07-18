@@ -1,0 +1,7 @@
+#include "Includes/Unity.XR.CoreUtils.Bindings.Variables/BindableEnum`1.h"
+#include "Includes/Unity.XR.CoreUtils.Bindings.Variables/BindableVariable`1.h"
+#include "Includes/Unity.XR.CoreUtils.Bindings.Variables/BindableVariableAlloc`1.h"
+#include "Includes/Unity.XR.CoreUtils.Bindings.Variables/BindableVariableBase`1.h"
+#include "Includes/Unity.XR.CoreUtils.Bindings.Variables/BindableVariableTaskPredicate`1.h"
+#include "Includes/Unity.XR.CoreUtils.Bindings.Variables/BindableVariableTaskState`1.h"
+#include "Includes/Unity.XR.CoreUtils.Bindings.Variables/IReadOnlyBindableVariable`1.h"

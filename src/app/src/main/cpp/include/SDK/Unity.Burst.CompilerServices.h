@@ -1,0 +1,6 @@
+#include "Includes/Unity.Burst.CompilerServices/Aliasing.h"
+#include "Includes/Unity.Burst.CompilerServices/AssumeRangeAttribute.h"
+#include "Includes/Unity.Burst.CompilerServices/Constant.h"
+#include "Includes/Unity.Burst.CompilerServices/Hint.h"
+#include "Includes/Unity.Burst.CompilerServices/IgnoreWarningAttribute.h"
+#include "Includes/Unity.Burst.CompilerServices/SkipLocalsInitAttribute.h"
