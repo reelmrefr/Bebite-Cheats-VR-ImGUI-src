@@ -1,7 +1,0 @@
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver/BaseAffordanceStateReceiver`1.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver/BaseAsyncAffordanceStateReceiver`1.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver/BaseSynchronousAffordanceStateReceiver`1.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver/IAffordanceStateReceiver.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver/IAffordanceStateReceiver`1.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver/IAsyncAffordanceStateReceiver.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver/ISynchronousAffordanceStateReceiver.h"

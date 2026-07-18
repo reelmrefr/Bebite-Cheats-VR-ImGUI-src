@@ -1,7 +1,0 @@
-#include "Includes/UnityEngine.InputSystem.Composites/AxisComposite.h"
-#include "Includes/UnityEngine.InputSystem.Composites/ButtonWithOneModifier.h"
-#include "Includes/UnityEngine.InputSystem.Composites/ButtonWithTwoModifiers.h"
-#include "Includes/UnityEngine.InputSystem.Composites/OneModifierComposite.h"
-#include "Includes/UnityEngine.InputSystem.Composites/TwoModifiersComposite.h"
-#include "Includes/UnityEngine.InputSystem.Composites/Vector2Composite.h"
-#include "Includes/UnityEngine.InputSystem.Composites/Vector3Composite.h"

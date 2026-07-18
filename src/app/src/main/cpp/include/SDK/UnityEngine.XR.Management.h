@@ -1,6 +1,0 @@
-#include "Includes/UnityEngine.XR.Management/XRConfigurationDataAttribute.h"
-#include "Includes/UnityEngine.XR.Management/XRGeneralSettings.h"
-#include "Includes/UnityEngine.XR.Management/XRLoader.h"
-#include "Includes/UnityEngine.XR.Management/XRLoaderHelper.h"
-#include "Includes/UnityEngine.XR.Management/XRManagementAnalytics.h"
-#include "Includes/UnityEngine.XR.Management/XRManagerSettings.h"

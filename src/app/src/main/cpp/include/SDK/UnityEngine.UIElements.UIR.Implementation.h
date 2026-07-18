@@ -1,5 +1,0 @@
-#include "Includes/UnityEngine.UIElements.UIR.Implementation/ClipMethod.h"
-#include "Includes/UnityEngine.UIElements.UIR.Implementation/RenderEvents.h"
-#include "Includes/UnityEngine.UIElements.UIR.Implementation/UIRStylePainter.h"
-#include "Includes/UnityEngine.UIElements.UIR.Implementation/UIRTextUpdatePainter.h"
-#include "Includes/UnityEngine.UIElements.UIR.Implementation/CommandGenerator.h"

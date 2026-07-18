@@ -1,8 +1,0 @@
-#include "Includes/ExitGames.Client.Photon.StructWrapping/WrappedType.h"
-#include "Includes/ExitGames.Client.Photon.StructWrapping/Pooling.h"
-#include "Includes/ExitGames.Client.Photon.StructWrapping/StructWrapper.h"
-#include "Includes/ExitGames.Client.Photon.StructWrapping/StructWrapper`1.h"
-#include "Includes/ExitGames.Client.Photon.StructWrapping/StructWrapperPool.h"
-#include "Includes/ExitGames.Client.Photon.StructWrapping/StructWrapperPool`1.h"
-#include "Includes/ExitGames.Client.Photon.StructWrapping/StructWrapperPools.h"
-#include "Includes/ExitGames.Client.Photon.StructWrapping/StructWrapperUtility.h"

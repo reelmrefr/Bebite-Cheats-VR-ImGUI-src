@@ -1,5 +1,0 @@
-#include "Includes/Backtrace.Unity.Services/BacktraceApi.h"
-#include "Includes/Backtrace.Unity.Services/BacktraceDatabaseContext.h"
-#include "Includes/Backtrace.Unity.Services/BacktraceDatabaseFileContext.h"
-#include "Includes/Backtrace.Unity.Services/BacktraceMetrics.h"
-#include "Includes/Backtrace.Unity.Services/ReportLimitWatcher.h"

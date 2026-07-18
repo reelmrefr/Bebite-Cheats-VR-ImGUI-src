@@ -1,5 +1,0 @@
-#include "Includes/System.IO.Enumeration/FileSystemEntry.h"
-#include "Includes/System.IO.Enumeration/FileSystemEnumerable`1.h"
-#include "Includes/System.IO.Enumeration/FileSystemEnumerableFactory.h"
-#include "Includes/System.IO.Enumeration/FileSystemEnumerator`1.h"
-#include "Includes/System.IO.Enumeration/FileSystemName.h"

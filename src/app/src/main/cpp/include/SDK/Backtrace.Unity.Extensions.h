@@ -1,6 +1,0 @@
-#include "Includes/Backtrace.Unity.Extensions/GuidHelper.h"
-#include "Includes/Backtrace.Unity.Extensions/EnumExtensions.h"
-#include "Includes/Backtrace.Unity.Extensions/StreamExtensions.h"
-#include "Includes/Backtrace.Unity.Extensions/StringHelper.h"
-#include "Includes/Backtrace.Unity.Extensions/ThreadExtensions.h"
-#include "Includes/Backtrace.Unity.Extensions/UnityWebRequestExtensions.h"

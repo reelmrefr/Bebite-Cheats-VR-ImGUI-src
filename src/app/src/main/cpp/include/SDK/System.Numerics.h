@@ -1,8 +1,0 @@
-#include "Includes/System.Numerics/ConstantHelper.h"
-#include "Includes/System.Numerics/Register.h"
-#include "Includes/System.Numerics/Vector`1.h"
-#include "Includes/System.Numerics/Vector.h"
-#include "Includes/System.Numerics/BigInteger.h"
-#include "Includes/System.Numerics/BigIntegerCalculator.h"
-#include "Includes/System.Numerics/BigNumber.h"
-#include "Includes/System.Numerics/NumericsHelpers.h"

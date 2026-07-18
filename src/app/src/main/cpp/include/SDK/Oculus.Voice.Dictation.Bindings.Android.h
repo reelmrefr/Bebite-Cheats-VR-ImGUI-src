@@ -1,6 +1,0 @@
-#include "Includes/Oculus.Voice.Dictation.Bindings.Android/DictationConfigurationBinding.h"
-#include "Includes/Oculus.Voice.Dictation.Bindings.Android/DictationListenerBinding.h"
-#include "Includes/Oculus.Voice.Dictation.Bindings.Android/IServiceEvents.h"
-#include "Includes/Oculus.Voice.Dictation.Bindings.Android/PlatformDictationImpl.h"
-#include "Includes/Oculus.Voice.Dictation.Bindings.Android/PlatformDictationSDKBinding.h"
-#include "Includes/Oculus.Voice.Dictation.Bindings.Android/PlatformDictationSession.h"

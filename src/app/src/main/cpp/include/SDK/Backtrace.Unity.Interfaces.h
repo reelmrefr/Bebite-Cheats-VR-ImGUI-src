@@ -1,6 +1,0 @@
-#include "Includes/Backtrace.Unity.Interfaces/IBacktraceApi.h"
-#include "Includes/Backtrace.Unity.Interfaces/IBacktraceClient.h"
-#include "Includes/Backtrace.Unity.Interfaces/IBacktraceDatabase.h"
-#include "Includes/Backtrace.Unity.Interfaces/IBacktraceDatabaseContext.h"
-#include "Includes/Backtrace.Unity.Interfaces/IBacktraceDatabaseFileContext.h"
-#include "Includes/Backtrace.Unity.Interfaces/IBacktraceMetrics.h"

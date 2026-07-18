@@ -1,5 +1,0 @@
-#include "Includes/Oculus.Interaction.Grab/GrabTypeFlags.h"
-#include "Includes/Oculus.Interaction.Grab/HandGrab.h"
-#include "Includes/Oculus.Interaction.Grab/GrabPoseHelper.h"
-#include "Includes/Oculus.Interaction.Grab/GrabPoseScore.h"
-#include "Includes/Oculus.Interaction.Grab/PoseMeasureParameters.h"

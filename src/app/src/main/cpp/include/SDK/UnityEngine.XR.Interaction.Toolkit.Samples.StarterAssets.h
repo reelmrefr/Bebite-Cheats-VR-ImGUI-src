@@ -1,7 +1,0 @@
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets/IncrementUIText.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets/ActionBasedControllerManager.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets/DestroySelf.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets/DynamicMoveProvider.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets/GazeInputManager.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets/ObjectSpawner.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets/XRPokeFollowAffordance.h"

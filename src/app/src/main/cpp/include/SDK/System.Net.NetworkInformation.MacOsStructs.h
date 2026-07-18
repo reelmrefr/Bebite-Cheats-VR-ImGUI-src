@@ -1,6 +1,0 @@
-#include "Includes/System.Net.NetworkInformation.MacOsStructs/ifaddrs.h"
-#include "Includes/System.Net.NetworkInformation.MacOsStructs/sockaddr.h"
-#include "Includes/System.Net.NetworkInformation.MacOsStructs/sockaddr_in.h"
-#include "Includes/System.Net.NetworkInformation.MacOsStructs/in6_addr.h"
-#include "Includes/System.Net.NetworkInformation.MacOsStructs/sockaddr_in6.h"
-#include "Includes/System.Net.NetworkInformation.MacOsStructs/sockaddr_dl.h"

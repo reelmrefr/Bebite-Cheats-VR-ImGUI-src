@@ -1,8 +1,0 @@
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AR/ARAnnotationInteractable.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AR/ARBaseGestureInteractable.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AR/ARPlacementInteractable.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AR/ARRotationInteractable.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AR/ARScaleInteractable.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AR/ARSelectionInteractable.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AR/ARTranslationInteractable.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AR/ARGestureInteractor.h"

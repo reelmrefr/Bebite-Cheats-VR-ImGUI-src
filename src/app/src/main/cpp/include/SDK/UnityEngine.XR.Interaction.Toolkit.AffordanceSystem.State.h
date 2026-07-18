@@ -1,7 +1,0 @@
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.State/AffordanceStateData.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.State/AffordanceStateShortcuts.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.State/BaseAffordanceStateProvider.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.State/XRInteractableAffordanceStateProvider.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.State/XRInteractorAffordanceStateProvider.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.State/IMultiPokeStateDataProvider.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.State/IPokeStateDataProvider.h"

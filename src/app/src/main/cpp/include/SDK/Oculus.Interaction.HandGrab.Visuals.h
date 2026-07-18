@@ -1,5 +1,0 @@
-#include "Includes/Oculus.Interaction.HandGrab.Visuals/HandGhost.h"
-#include "Includes/Oculus.Interaction.HandGrab.Visuals/HandGhostProvider.h"
-#include "Includes/Oculus.Interaction.HandGrab.Visuals/HandJointMap.h"
-#include "Includes/Oculus.Interaction.HandGrab.Visuals/JointCollection.h"
-#include "Includes/Oculus.Interaction.HandGrab.Visuals/HandPuppet.h"

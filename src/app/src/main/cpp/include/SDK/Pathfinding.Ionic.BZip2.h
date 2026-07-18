@@ -1,8 +1,0 @@
-#include "Includes/Pathfinding.Ionic.BZip2/BZip2Compressor.h"
-#include "Includes/Pathfinding.Ionic.BZip2/BZip2InputStream.h"
-#include "Includes/Pathfinding.Ionic.BZip2/BZip2.h"
-#include "Includes/Pathfinding.Ionic.BZip2/BZip2OutputStream.h"
-#include "Includes/Pathfinding.Ionic.BZip2/BitWriter.h"
-#include "Includes/Pathfinding.Ionic.BZip2/WorkItem.h"
-#include "Includes/Pathfinding.Ionic.BZip2/ParallelBZip2OutputStream.h"
-#include "Includes/Pathfinding.Ionic.BZip2/Rand.h"

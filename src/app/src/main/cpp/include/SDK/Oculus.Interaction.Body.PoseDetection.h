@@ -1,7 +1,0 @@
-#include "Includes/Oculus.Interaction.Body.PoseDetection/BodyPoseComparerActiveState.h"
-#include "Includes/Oculus.Interaction.Body.PoseDetection/BodyPoseComparerActiveStateDebugVisual.h"
-#include "Includes/Oculus.Interaction.Body.PoseDetection/BodyPoseData.h"
-#include "Includes/Oculus.Interaction.Body.PoseDetection/BodyPoseDebugGizmos.h"
-#include "Includes/Oculus.Interaction.Body.PoseDetection/IBodyPose.h"
-#include "Includes/Oculus.Interaction.Body.PoseDetection/PoseFromBody.h"
-#include "Includes/Oculus.Interaction.Body.PoseDetection/OVRBodyPoseSkeletonProvider.h"

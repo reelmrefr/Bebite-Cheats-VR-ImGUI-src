@@ -1,5 +1,0 @@
-#include "Includes/PlayFab.Public/IScreenTimeTracker.h"
-#include "Includes/PlayFab.Public/ScreenTimeTracker.h"
-#include "Includes/PlayFab.Public/IPlayFabLogger.h"
-#include "Includes/PlayFab.Public/PlayFabLoggerBase.h"
-#include "Includes/PlayFab.Public/PlayFabLogger.h"

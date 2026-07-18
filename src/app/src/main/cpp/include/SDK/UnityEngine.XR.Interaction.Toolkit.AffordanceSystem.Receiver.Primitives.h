@@ -1,7 +1,0 @@
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Primitives/ColorAffordanceReceiver.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Primitives/FloatAffordanceReceiver.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Primitives/QuaternionAffordanceReceiver.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Primitives/QuaternionEulerAffordanceReceiver.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Primitives/Vector2AffordanceReceiver.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Primitives/Vector3AffordanceReceiver.h"
-#include "Includes/UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Receiver.Primitives/Vector4AffordanceReceiver.h"

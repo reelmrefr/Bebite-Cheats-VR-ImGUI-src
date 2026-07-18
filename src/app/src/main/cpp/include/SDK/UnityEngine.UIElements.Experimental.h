@@ -1,6 +1,0 @@
-#include "Includes/UnityEngine.UIElements.Experimental/Easing.h"
-#include "Includes/UnityEngine.UIElements.Experimental/StyleValues.h"
-#include "Includes/UnityEngine.UIElements.Experimental/ITransitionAnimations.h"
-#include "Includes/UnityEngine.UIElements.Experimental/Lerp.h"
-#include "Includes/UnityEngine.UIElements.Experimental/IValueAnimationUpdate.h"
-#include "Includes/UnityEngine.UIElements.Experimental/ValueAnimation`1.h"

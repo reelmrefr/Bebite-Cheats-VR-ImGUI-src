@@ -1,6 +1,0 @@
-#include "Includes/UnityEngineInternal.Input/NativeUpdateCallback.h"
-#include "Includes/UnityEngineInternal.Input/NativeInputEventType.h"
-#include "Includes/UnityEngineInternal.Input/NativeInputEventBuffer.h"
-#include "Includes/UnityEngineInternal.Input/NativeInputEvent.h"
-#include "Includes/UnityEngineInternal.Input/NativeInputUpdateType.h"
-#include "Includes/UnityEngineInternal.Input/NativeInputSystem.h"

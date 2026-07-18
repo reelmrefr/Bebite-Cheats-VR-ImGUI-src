@@ -1,6 +1,0 @@
-#include "Includes/Oculus.Spatializer.Propagation/FaceType.h"
-#include "Includes/Oculus.Spatializer.Propagation/MaterialProperty.h"
-#include "Includes/Oculus.Spatializer.Propagation/MeshGroup.h"
-#include "Includes/Oculus.Spatializer.Propagation/FaceType.h"
-#include "Includes/Oculus.Spatializer.Propagation/MaterialProperty.h"
-#include "Includes/Oculus.Spatializer.Propagation/MeshGroup.h"

@@ -1,6 +1,0 @@
-#include "Includes/UnityEngine.InputSystem.Interactions/HoldInteraction.h"
-#include "Includes/UnityEngine.InputSystem.Interactions/MultiTapInteraction.h"
-#include "Includes/UnityEngine.InputSystem.Interactions/PressInteraction.h"
-#include "Includes/UnityEngine.InputSystem.Interactions/PressBehavior.h"
-#include "Includes/UnityEngine.InputSystem.Interactions/SlowTapInteraction.h"
-#include "Includes/UnityEngine.InputSystem.Interactions/TapInteraction.h"

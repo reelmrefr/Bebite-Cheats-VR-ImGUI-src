@@ -1,7 +1,0 @@
-#include "Includes/Backtrace.Unity.Model.Metrics/EventAggregationBase.h"
-#include "Includes/Backtrace.Unity.Model.Metrics/MetricsSubmissionJob`1.h"
-#include "Includes/Backtrace.Unity.Model.Metrics/MetricsSubmissionQueue`1.h"
-#include "Includes/Backtrace.Unity.Model.Metrics/SummedEvent.h"
-#include "Includes/Backtrace.Unity.Model.Metrics/SummedEventsSubmissionQueue.h"
-#include "Includes/Backtrace.Unity.Model.Metrics/UniqueEvent.h"
-#include "Includes/Backtrace.Unity.Model.Metrics/UniqueEventsSubmissionQueue.h"

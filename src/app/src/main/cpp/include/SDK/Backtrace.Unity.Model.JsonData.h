@@ -1,6 +1,0 @@
-#include "Includes/Backtrace.Unity.Model.JsonData/Annotations.h"
-#include "Includes/Backtrace.Unity.Model.JsonData/AttributeProvider.h"
-#include "Includes/Backtrace.Unity.Model.JsonData/BacktraceAttributes.h"
-#include "Includes/Backtrace.Unity.Model.JsonData/SourceCodeData.h"
-#include "Includes/Backtrace.Unity.Model.JsonData/ThreadData.h"
-#include "Includes/Backtrace.Unity.Model.JsonData/ThreadInformation.h"
