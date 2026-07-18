@@ -1,0 +1,8 @@
+#include "Includes/Backtrace.Unity.Types/BacktraceResultStatus.h"
+#include "Includes/Backtrace.Unity.Types/BacktraceStackFrameType.h"
+#include "Includes/Backtrace.Unity.Types/DeduplicationStrategy.h"
+#include "Includes/Backtrace.Unity.Types/MinidumpException.h"
+#include "Includes/Backtrace.Unity.Types/MiniDumpType.h"
+#include "Includes/Backtrace.Unity.Types/ReportFilterType.h"
+#include "Includes/Backtrace.Unity.Types/RetryBehavior.h"
+#include "Includes/Backtrace.Unity.Types/RetryOrder.h"

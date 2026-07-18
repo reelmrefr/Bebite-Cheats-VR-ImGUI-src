@@ -1,0 +1,8 @@
+#include "Includes/Backtrace.Unity.Model.Breadcrumbs/BacktraceBreadcrumbType.h"
+#include "Includes/Backtrace.Unity.Model.Breadcrumbs/BacktraceBreadcrumbs.h"
+#include "Includes/Backtrace.Unity.Model.Breadcrumbs/BacktraceBreadcrumbsEventHandler.h"
+#include "Includes/Backtrace.Unity.Model.Breadcrumbs/BreadcrumbLevel.h"
+#include "Includes/Backtrace.Unity.Model.Breadcrumbs/IArchiveableBreadcrumbManager.h"
+#include "Includes/Backtrace.Unity.Model.Breadcrumbs/IBacktraceBreadcrumbs.h"
+#include "Includes/Backtrace.Unity.Model.Breadcrumbs/IBacktraceLogManager.h"
+#include "Includes/Backtrace.Unity.Model.Breadcrumbs/UnityEngineLogLevel.h"

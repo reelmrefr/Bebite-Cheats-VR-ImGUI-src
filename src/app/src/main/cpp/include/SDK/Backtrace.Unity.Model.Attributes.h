@@ -1,0 +1,8 @@
+#include "Includes/Backtrace.Unity.Model.Attributes/IDynamicAttributeProvider.h"
+#include "Includes/Backtrace.Unity.Model.Attributes/IScopeAttributeProvider.h"
+#include "Includes/Backtrace.Unity.Model.Attributes/MachineAttributeProvider.h"
+#include "Includes/Backtrace.Unity.Model.Attributes/MachineStateAttributeProvider.h"
+#include "Includes/Backtrace.Unity.Model.Attributes/PiiAttributeProvider.h"
+#include "Includes/Backtrace.Unity.Model.Attributes/ProcessAttributeProvider.h"
+#include "Includes/Backtrace.Unity.Model.Attributes/RuntimeAttributeProvider.h"
+#include "Includes/Backtrace.Unity.Model.Attributes/SceneAttributeProvider.h"

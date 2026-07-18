@@ -1,0 +1,5 @@
+#include "Includes/Internal.Runtime.Augments/AsyncStatus.h"
+#include "Includes/Internal.Runtime.Augments/TaskTraceCallbacks.h"
+#include "Includes/Internal.Runtime.Augments/RuntimeAugments.h"
+#include "Includes/Internal.Runtime.Augments/ReflectionExecutionDomainCallbacks.h"
+#include "Includes/Internal.Runtime.Augments/RuntimeThread.h"
